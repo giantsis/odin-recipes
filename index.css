@@ -22,9 +22,16 @@ img {
 }
 
 a {
-    color: black;
+    margin: 8px;
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 8px;
+    background-color: #3498db;
+    color: #fff;
+
 }
 
 a:hover{
-    color: brown;
+    color: black;
 }
